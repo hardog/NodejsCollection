@@ -1,15 +1,15 @@
-# zhihu topics about Node
+## zhihu topics about Node
 
 [following come from the zhihu index](https://www.zhihu.com/topic/19569535)
 
-# basic
+## basic
 
 - [Node.js是用来做什么的?](https://www.zhihu.com/question/33578075)
 - [Node.js 适合用来做 web 开发吗?](https://www.zhihu.com/question/20069184)
 - [Node.js 为什么要用 JavaScript 去实现?](https://www.zhihu.com/question/20383725)
 - [node.js能开发大型网站吗?](https://www.zhihu.com/question/21176891)
 
-# how to learn
+## how to learn
 
 - [如何系统地学习Node.js?](https://www.zhihu.com/question/21567720)
 - [怎样有效地学习 Node.js?](https://www.zhihu.com/question/19793473)
@@ -18,7 +18,7 @@
 - [想学习nodejs 有什么书可以推荐的?](https://www.zhihu.com/question/37361915)
 - [2016该如何学习nodejs?](https://www.zhihu.com/question/40390515)
 
-# features
+## features
 
 - [Node.js 与 Python 作为后端服务的编程语言各有什么优劣?](https://www.zhihu.com/question/20961574)
 - [Node.js被高估了吗?](https://www.zhihu.com/question/41866223)
@@ -29,14 +29,14 @@
 - [Nodejs中的异步到底是优势还是劣势?](https://www.zhihu.com/question/46371223)
 - [如何看待天猫彻底抛弃PHP?](https://www.zhihu.com/question/41913568)
 
-# scene
+## scene
 
 - [如何评价淘宝 UED 的 Midway Framework 前后端分离?](https://www.zhihu.com/question/23512853)
 - [Web 前后端分离的意义大吗?](https://www.zhihu.com/question/28207685)
 - [用Nodejs开发桌面应用。NW.js 和 Electron 各有什么优缺点，你选择哪个?](https://www.zhihu.com/question/38854224)
 - [Node.js 发展前景如何？适用于哪些场景?](https://www.zhihu.com/question/19587881)
 
-# advance topic
+## advance topic
 
 - [如何评价node_modules的设计?](https://www.zhihu.com/question/36697792)
 - [NPM中将函数当作一个包发布的方式是否合理?](https://www.zhihu.com/question/41750206)
@@ -46,7 +46,7 @@
 - [nodejs的websocket的服务器端是如何实现的?](https://www.zhihu.com/question/37647173)
 - [在单线程的情况下，NodeJs是如何分发子任务去执行的?](https://www.zhihu.com/question/24780826)
 
-# projects
+## projects
 
 - [GitHub上有哪些值得关注学习的NodeJS开源项目?](https://www.zhihu.com/question/40997559)
 - [使用nodejs开发的网站有哪些?](https://www.zhihu.com/question/21317639)
