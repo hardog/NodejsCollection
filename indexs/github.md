@@ -1,4 +1,4 @@
-## some known repo about Node
+## known repo
 
 - [node](https://github.com/nodejs/node)
 - [node topics](https://github.com/nodejs/node/tree/master/doc/topics)

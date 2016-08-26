@@ -1,9 +1,9 @@
-## links about org website
+## org links
 
 - [Nodejs](https://nodejs.org/en/)
 - [Nodejs CN](https://cnodejs.org/)
 
-## org related known website
+## related known website
 
 - [npm](https://www.npmjs.com/)
 - [cnpm](https://cnpmjs.org/)
@@ -11,7 +11,7 @@
 - [how to node](https://howtonode.org/)
 - [nodeweekly](http://nodeweekly.com/)
 
-## known meeting
+## meeting
 
 - [jsconf](http://jsconf.cn/)
 - [nodeconf](http://nodeconf.com/)

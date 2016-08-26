@@ -1,4 +1,4 @@
-## node intro for beginners
+## intro for beginners
 
 - [masteringnode](http://visionmedia.github.io/masteringnode/book.html)
 - [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)

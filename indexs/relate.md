@@ -1,4 +1,4 @@
-## Nodejs relate articles
+## articles
 
 - [InfoQ关于Node系列文章](http://www.infoq.com/cn/master-nodejs)
 - [我为什么反对用Node](http://www.infoq.com/cn/articles/why-oppose-Node)

@@ -1,4 +1,4 @@
-## zhihu topics about Node
+## topics
 
 [following come from the zhihu index](https://www.zhihu.com/topic/19569535)
 

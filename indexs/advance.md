@@ -1,4 +1,4 @@
-## advanced subject about Node
+## advanced subject
 
 about node source, v8, libuv, security, cluster, publish, performance, etc.
 
