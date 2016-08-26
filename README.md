@@ -1,7 +1,7 @@
 # NodejsCollection
 
 articles about Nodejs!
-![img about Nodejs](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.ai)
+![img about Nodejs](http://hardog.net/images/assist/20160826/nodejs-new-pantone-black.png =400x245)
 
 - [官网](https://github.com/hardog/NodejsCollection/blob/master/parts/org.md)
 - [Node Party](https://github.com/hardog/NodejsCollection/blob/master/parts/nodeparty.md)
