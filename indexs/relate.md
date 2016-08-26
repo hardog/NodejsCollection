@@ -4,6 +4,7 @@
 - [我为什么反对用Node](http://www.infoq.com/cn/articles/why-oppose-Node)
 - [记一次 Node.js 应用内存暴涨分析](https://yq.aliyun.com/articles/4050)
 - [NodeJS内存泄露的几种情况及解决方案](http://www.nodejs.net/a/20141205/164524.html)
+- [编写安全的Node代码建议](https://blog.gaoqixhb.com/p/543690569e703d0061c53837)
 
 ## video
 
