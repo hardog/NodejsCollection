@@ -1,11 +1,11 @@
 # NodejsCollection
 
-all things about Nodejs!
+articles about Nodejs!
 
-- [官网](#Org)
-- [Node Party](#NodeParty)
-- [Github](#Github)
-- [zhihu](#知乎问答)
-- [outland](#外国文章)
-- [others](#其他文章)
-- [related](#相关网站)
+- [官网](https://github.com/hardog/NodejsCollection/blob/master/parts/org.md)
+- [Node Party](https://github.com/hardog/NodejsCollection/blob/master/parts/nodeparty.md)
+- [Github](https://github.com/hardog/NodejsCollection/blob/master/parts/github.md)
+- [zhihu](https://github.com/hardog/NodejsCollection/blob/master/parts/zhihu.md)
+- [foreign](https://github.com/hardog/NodejsCollection/blob/master/parts/foreign.md)
+- [others](https://github.com/hardog/NodejsCollection/blob/master/parts/others.md)
+- [relate](https://github.com/hardog/NodejsCollection/blob/master/parts/relate.md)
