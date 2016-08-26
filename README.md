@@ -2,7 +2,7 @@
 
 ![img about Nodejs](http://hardog.net/images/assist/20160826/nodejs-new-pantone-black.png)
 
-收集关于Nodejs的优质话题&文章索引!
+收集关于Nodejs的优质话题&文章索引, 分类较全的关于Node其他方面[awesome－nodejs](https://github.com/sindresorhus/awesome-nodejs)!
 
 - [官网相关](https://github.com/hardog/NodejsCollection/blob/master/indexs/org.md)
 - [Github](https://github.com/hardog/NodejsCollection/blob/master/indexs/github.md)
