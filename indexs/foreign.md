@@ -9,9 +9,13 @@
 - [you don't know node](http://webapplog.com/you-dont-know-node/#main)
 - [you don't know npm(ppt)](http://ashleygwilliams.github.io/node-live/#1)
 - [Node performance](http://nodeperformance.com/debugging-nodejs-memory-leaks/)
+- [The 5 dimensions of an npm dependency](https://snyk.io/blog/whats-an-npm-dependency/?utm_source=risingstack_blog)
+- [http2 good for cdn & feo](http://www.guypo.com/http2-0-is-good-news-for-cdns-and-feo/)
 
 ## node security
 
+- [All vulnerabilitiesTotal130](https://snyk.io/vuln/?utm_source=risingstack_blog)
+- [controlling node js security risk npm dependencies](https://blog.risingstack.com/controlling-node-js-security-risk-npm-dependencies/)
 - [node check list](https://blog.risingstack.com/node-js-security-checklist/)
 - [tips about secure node](https://blog.risingstack.com/node-js-security-tips/)
 - [node security](https://nodesecurity.io/)
