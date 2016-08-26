@@ -8,6 +8,6 @@ articles about Nodejs!
 - [Github](https://github.com/hardog/NodejsCollection/blob/master/parts/github.md)
 - [知乎](https://github.com/hardog/NodejsCollection/blob/master/parts/zhihu.md)
 - [国外Node文章](https://github.com/hardog/NodejsCollection/blob/master/parts/foreign.md)
-- [公司关于Node文章](https://github.com/hardog/NodejsCollection/blob/master/parts/companys.md)
+- [各公司关于Node文章](https://github.com/hardog/NodejsCollection/blob/master/parts/companys.md)
 - [Node高级话题](https://github.com/hardog/NodejsCollection/blob/master/parts/advance.md)
 - [Node相关话题](https://github.com/hardog/NodejsCollection/blob/master/parts/relate.md)
