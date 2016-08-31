@@ -5,6 +5,8 @@ about node source, v8, libuv, security, cluster, publish, performance, etc.
 ## source
 
 - [Node.js源码阅读笔记](https://cattail.me/tech/2014/10/16/nodejs-source-reading-note.html)
+- [Node Stream](https://github.com/zoubin/streamify-your-node-program)
+- [Nodejs 源码系列](https://cnodejs.org/user/DavidCai1993/topics)
 
 ## v8
 
