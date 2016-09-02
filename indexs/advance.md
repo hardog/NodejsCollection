@@ -18,11 +18,14 @@ about node source, v8, libuv, security, cluster, publish, performance, etc.
 - [libuv org](http://docs.libuv.org/en/v1.x/)
 - [libuv uvbook](http://nikhilm.github.io/uvbook/index.html)
 - [libuv uvbook CN](http://luohaha.github.io/Chinese-uvbook/source/basics_of_libuv.html)
+- [libuv uvbook another one CN](http://www.nowx.org/uvbook/index.html)
 
 ## security
 
 - [Node 模块安全检测](https://nodesecurity.io/)
 - [Qonf 搭建Node集群](https://github.com/Qihoo360/QConf/wiki/Qconf-Node-Doc)
 
+## process & thread
 
+- [Fibers and Threads in node.js – what for?](https://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/)
 
