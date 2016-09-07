@@ -10,6 +10,7 @@
 - [npm 淘宝](https://npm.taobao.org/)
 - [how to node](https://howtonode.org/)
 - [nodeweekly](http://nodeweekly.com/)
+- [alinode](http://alinode.aliyun.com/blog)
 
 ## meeting
 

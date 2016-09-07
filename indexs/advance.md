@@ -12,6 +12,8 @@ about node source, v8, libuv, security, cluster, publish, performance, etc.
 
 - [v8](https://developers.google.com/v8/)
 - [v8 tags](https://wingolog.org/tags/v8)
+- [v8 gc log1](http://alinode.aliyun.com/blog/37)
+- [v8 gc log2](http://alinode.aliyun.com/blog/38)
 
 ## libuv
 
