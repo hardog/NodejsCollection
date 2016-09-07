@@ -25,6 +25,7 @@
 
 ## advance topic
 
+- [v8 official blog](http://v8project.blogspot.jp/)
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 - [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
