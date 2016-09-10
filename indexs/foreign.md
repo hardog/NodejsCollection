@@ -1,5 +1,6 @@
 ## intro for beginners
 
+- [course for beginner](https://hyperdev.com/help/learn-node-js-free-beginner-course/)
 - [masteringnode](http://visionmedia.github.io/masteringnode/book.html)
 - [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 
@@ -25,6 +26,7 @@
 
 ## advance topic
 
+- [asyncwrap from node](http://blog.trevnorris.com/2015/02/asyncwrap-tutorial-introduction.html)
 - [v8 official blog](http://v8project.blogspot.jp/)
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
